@@ -2,7 +2,7 @@
 
 It is School Project for OOP class.
 
-Used Technologies:
+_Used Technologies:_
 
 1.JDBC
 
